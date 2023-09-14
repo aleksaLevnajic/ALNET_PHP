@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+			<title>Check out our new prdoucts</title>
+			<link>https://alnetdoo.000webhostapp.com/product.php</link>
+			<description> We just got some new lamps, so check them out! </description>
+		<item>
+			<title>Survey?</title>
+			<link> https://alnetdoo.000webhostapp.com/index.php </link>
+			<description> Log in and fill out are short survey! </description>
+		</item>
+	</channel>
+</rss>
